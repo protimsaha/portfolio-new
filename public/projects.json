@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Fly Parts",
+        "sDes": "This is a full-stack website with admin panel access and a payment gateway. Here users can buy aircrafts parts and make card payment.Admin control whole system and also can make new admin.",
+        "img": "https://i.ibb.co/wpcpZmL/Fiver-2.png",
+        "img1": "https://i.ibb.co/XXgRcJY/Fiver-1.png",
+        "img2": "https://i.ibb.co/n0nmMSL/Fiver-9.png",
+        "img3": "https://i.ibb.co/zx2Xgr3/Fiver2.png",
+        "gitC": "https://github.com/protimsaha/Fly-parts-client",
+        "gitS": "https://github.com/protimsaha/fly-parts-server",
+        "live": "https://assignment-12-836ed.web.app/"
+    },
+    {
+        "id": 2,
+        "name": "ultimate bikes",
+        "sDes": "This is a Full-stack website. This is a huge bike warehouse management website. The client can manage orders, and deliver and import bikes from here.",
+        "img": "https://i.ibb.co/rbPcNQz/Fiver-4.png",
+        "img1": "https://i.ibb.co/xfbFjVw/Fiver-11.png",
+        "img2": "https://i.ibb.co/tmb1Y8K/Fiver-5.png",
+        "img3": "https://i.ibb.co/crt6xgq/fiver10.png",
+        "gitC": "https://github.com/protimsaha/Ultimate-bikes",
+        "gitS": "https://github.com/protimsaha/ultimates-bikes-server",
+        "live": "https://assignment-11-eb5e6.web.app/"
+    },
+    {
+        "id": 3,
+        "name": "swim trainer",
+        "sDes": "This is a front-end website of an independent service provider. This is a swimming trainer’s website.",
+        "img": "https://i.ibb.co/sFbrGyT/portfolio.png",
+        "img1": "https://i.ibb.co/bsCryXc/fiver12.png",
+        "img2": "https://i.ibb.co/L9fJ0LM/fiver13.png",
+        "img3": "https://i.ibb.co/mBnvx62/fiver14.png",
+        "gitC": "https://github.com/protimsaha/the-swimming-trainer",
+        "live": "https://assignment-10-6ef43.web.app/services"
+    },
+    {
+        "id": 4,
+        "name": "saha convention center",
+        "sDes": "This is a convention center's website.Clients can book any package of the convention center.There are severel types of packages there.",
+        "img": "https://i.ibb.co/7rtNmqv/saha-center.png",
+        "img1": "https://i.ibb.co/r5vrfkY/fiver15.png",
+        "img2": "https://i.ibb.co/Fx6XZHQ/fiver16.png",
+        "img3": "https://i.ibb.co/qkVdJk8/fiver17.png",
+        "gitC": "https://github.com/protimsaha/saha-convention-center",
+        "live": "https://saha-convention-center.netlify.app/"
+    }
+]

@@ -1,0 +1,236 @@
+.banner-title {
+    font-size: 35px;
+    white-space: nowrap;
+    position: relative;
+    color: transparent;
+}
+
+.banner {
+    background-image: url(../../image/1000-kateryna_helminen-defc5d396622def39f78750bee88640b.jpg);
+}
+
+
+.banner-title::before {
+    content: 'PUSPOK';
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: wheat;
+
+    animation: typing 8s linear infinite;
+}
+
+@keyframes typing {
+    0% {
+        content: 'P|';
+    }
+
+    2% {
+        content: 'PU|';
+    }
+
+    4% {
+        content: 'PUS|';
+    }
+
+    6% {
+        content: 'PUSP|';
+    }
+
+    8% {
+        content: 'PUSPO|';
+    }
+
+    10% {
+        content: 'PUSPOK|';
+    }
+
+    12% {
+        content: 'PUSPOK P|';
+    }
+
+    14% {
+        content: 'PUSPOK PR|';
+    }
+
+    16% {
+        content: 'PUSPOK PRO|';
+    }
+
+    18% {
+        content: 'PUSPOK PROT|';
+    }
+
+    20% {
+        content: 'PUSPOK PROTI|';
+    }
+
+    22% {
+        content: 'PUSPOK PROTIM|';
+    }
+
+    24% {
+        content: 'PUSPOK PROTIM S|';
+    }
+
+    26% {
+        content: 'PUSPOK PROTIM SA|';
+    }
+
+    28% {
+        content: 'PUSPOK PROTIM SAH|';
+    }
+
+    30% {
+        content: 'PUSPOK PROTIM SAHA|';
+    }
+
+
+    40% {
+        content: 'PUSPOK PROTIM SAHA|';
+    }
+
+    41% {
+        content: 'PUSPOK PROTIM SA|';
+    }
+
+    42% {
+        content: 'PUSPOK PROTIM S|';
+    }
+
+    43% {
+        content: 'PUSPOK PROTIM|';
+    }
+
+    44% {
+        content: 'PUSPOK PROT|';
+    }
+
+    45% {
+        content: 'PUSPOK PR|';
+    }
+
+    46% {
+        content: 'PUSPOK P|';
+    }
+
+    47% {
+        content: 'PUSPOK|';
+    }
+
+    48% {
+        content: 'PUSP|';
+    }
+
+    49% {
+        content: 'PU|';
+    }
+
+    50% {
+        content: '|';
+    }
+
+    52% {
+        content: 'M|';
+    }
+
+    54% {
+        content: 'ME|';
+    }
+
+    56% {
+        content: 'MER|';
+    }
+
+    58% {
+        content: 'MERN|';
+    }
+
+    60% {
+        content: 'MERN D|';
+    }
+
+    62% {
+        content: 'MERN De|';
+    }
+
+    64% {
+        content: 'MERN Dev|';
+    }
+
+    66% {
+        content: 'MERN Deve|';
+    }
+
+    68% {
+        content: 'MERN Devel|';
+    }
+
+    70% {
+        content: 'MERN Develo|';
+    }
+
+    72% {
+        content: 'MERN Develope|';
+    }
+
+    74% {
+        content: 'MERN Developer|';
+    }
+
+    80% {
+        content: 'MERN Developer|';
+    }
+
+    88% {
+        content: 'MERN Develope|';
+    }
+
+    89% {
+        content: 'MERN Develop|';
+    }
+
+    90% {
+        content: 'MERN Develo|';
+    }
+
+    91% {
+        content: 'MERN Devel|';
+    }
+
+    92% {
+        content: 'MERN Deve|';
+    }
+
+    93% {
+        content: 'MERN Dev|';
+    }
+
+    94% {
+        content: 'MERN De|';
+    }
+
+    95% {
+        content: 'MERN D|';
+    }
+
+    96% {
+        content: 'MERN|';
+    }
+
+    97% {
+        content: 'MER|';
+    }
+
+    98% {
+        content: 'ME|';
+    }
+
+    99% {
+        content: 'M|';
+    }
+
+    100% {
+        content: '|';
+    }
+}

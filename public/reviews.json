@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Jonson",
+        "location": "USA",
+        "review": "This section has been closed for disableness of backend server was deployed on heroku free hosting."
+    },
+    {
+        "id": 2,
+        "name": "Emi",
+        "location": "Canada",
+        "review": "This section has been closed for disableness of backend server was deployed on heroku free hosting."
+    },
+    {
+        "id": 3,
+        "name": "Nabil",
+        "location": "India",
+        "review": "This section has been closed for disableness of backend server was deployed on heroku free hosting."
+    }
+]
